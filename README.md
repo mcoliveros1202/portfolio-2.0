@@ -33,4 +33,5 @@
     For more of my work, visit [GitHub] 
     https://github.com/mcoliveros1202
 
-    ![App Screenshot] (/assets/images/Screenshot.png)
+
+![Screenshot 2022-09-18 at 5 54 27 PM](https://user-images.githubusercontent.com/104112466/190931955-ca9cc07b-5e32-4c99-8125-d908f46f5a55.png)
