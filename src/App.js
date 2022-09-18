@@ -2,6 +2,7 @@ import React from 'react';
 import Nav from './components/Nav'
 import About from './components/About';
 import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <main>
         <About />
         <Portfolio />
+        <Contact />
       </main>
     </div>
   );

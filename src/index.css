@@ -198,15 +198,23 @@ header ul li a:active {
 .contact {
   background-color: rgba(92, 67, 36, .6);
   color: var(--cornsilk);
-  margin: 100px 550px;
+  margin: 100px 680px;
   border-top: var(--brown-title);
   border-bottom: var(--brown-title);
+  padding-bottom: 15px;
 }
 
 .secondary-title
 {
   text-align: center;
   padding: 9px;
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
 }
 
 .contact-info ul {
@@ -220,6 +228,15 @@ header ul li a:active {
 
 .contact-info h3 a {
   color: var(--cornsilk);
+}
+
+button {
+  background-color: #192a0d;
+  color: #E9EEDE;
+  padding: 10px;
+  border: none;
+  border-radius: 7px;
+  font-size: 12px
 }
 
 /* MEDIA QUERIES */

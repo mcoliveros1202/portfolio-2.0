@@ -13,7 +13,7 @@ function Nav() {
                         <a href='#my-work'>My Work</a>
                     </li>
                     <li>
-                        <a href='$contact-me'>Contact Me</a>
+                        <a href='#contact-me'>Contact Me</a>
                     </li>
                     <li>
                         <span>Contact</span>
