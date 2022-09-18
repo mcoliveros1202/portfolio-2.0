@@ -32,4 +32,4 @@
 
     For more of my work, visit [GitHub] 
     https://github.com/mcoliveros1202
-    ![Screenshot 2022-09-18 at 5 52 25 PM](https://user-images.githubusercontent.com/104112466/190931653-ab6b9261-bc88-498d-a363-1398a36c2716.png)
+  
